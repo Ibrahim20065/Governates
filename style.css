@@ -1,0 +1,40 @@
+html{
+    background-image: url(Pyramids.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.item{
+    width:200px;
+    text-align:center;
+    display:block;
+    background-color:transparent;
+    border: 1px solid transparent;
+    margin-right: 10px;
+    margin-bottom: 1px;
+    float:left;
+    padding: 75px;
+    
+  }
+
+  h1{
+    text-align: center;
+  }
+
+  h3{
+    text-align: center;
+    color:aliceblue;
+    background-color: black;
+  }
+
+  h2{
+    text-align: center;
+  }
+
+  img{
+    padding-top: 20px;
+    
+  }
+  
+  
+   
